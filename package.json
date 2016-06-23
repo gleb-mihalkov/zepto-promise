@@ -1,5 +1,5 @@
 {
-  "name": "zepto-common",
+  "name": "zepto-promise",
   "version": "1.0.0",
   "description": "Библиотека zepto-promise.",
   "main": "gulpfile.js",
