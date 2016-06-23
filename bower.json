@@ -1,0 +1,27 @@
+{
+  "name": "zepto-common",
+  "description": "Библиотека zepto-promise.",
+  "main": "gulpfile.js",
+  "authors": [
+    "gleb-mihalkov"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "zepto",
+    "lib"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "promise-polyfill": "https://github.com/taylorhakes/promise-polyfill.git#^5.2.1",
+    "setImmediate": "https://github.com/YuzuJS/setImmediate.git#^1.0.4",
+    "zepto": "^1.1.6",
+    "zepto-common": "https://github.com/gleb-mihalkov/zepto-common.git"
+  }
+}
